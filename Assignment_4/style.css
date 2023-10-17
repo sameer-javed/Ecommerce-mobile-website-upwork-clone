@@ -1,0 +1,85 @@
+.body{
+    background-color:orangered;
+    max-width: 1240px;
+}
+.text-caption{
+    font-family: "Courier New", monospace;
+    margin: 5px;
+}
+.nav{
+    background-color: white;
+    max-width: 800px; 
+}
+ul{
+    list-style-type: none;
+    background-color: black;
+    float: center;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.li{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 80px;
+    text-decoration: none;
+    }
+img{
+    width: 180px;
+    height: 180px;
+    padding: 20px;
+    margin: 0 auto;
+    float: left;
+}
+.footer{
+    max-width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+}
+.h1{
+    font-family: "Courier New", monospace;
+    text-align: center;
+    font-size: 70px;
+    height: 10px;
+    max-width: 800px;
+    padding: 40px;
+    margin: 0 auto;
+    color: rgb(131, 0, 0);
+    
+}
+.cotainer{
+    background-color: white;
+    max-width: 800px;
+    height: 1200px;
+    padding: 30px;
+    margin: 0 auto;
+}
+.navigation{
+    float: center;
+    margin: 0 auto;
+}
+.main{
+    background-color: rgb(173, 205, 233);
+    max-width: 800px;
+    height: 1200px;
+    padding: 40px;
+    margin: 0 auto;
+    border-radius: 0%;
+    box-shadow: 2px 2px 2px ;
+}
+.large{
+    width: 600px;
+    height: 325px;
+    margin: 0 auto;
+}
+.text{
+    font-family: "Courier New", monospace;
+    margin: 5px;
+}
+.clear{
+    clear: both;
+}
+.content-wrap{
+    margin: 0 auto;
+}

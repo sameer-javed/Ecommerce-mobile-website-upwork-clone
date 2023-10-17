@@ -1,0 +1,116 @@
+td{
+    text-align: center;
+}
+table{ 
+    display: inline;
+    margin: 50px auto ;
+    background-color:white;
+    border-spacing: 5px;
+    color:grey;
+    padding: 10px;
+}
+th:hover{
+    color:blue;
+    cursor: pointer;
+}
+li:hover{
+    color: lightgreen;
+    cursor: pointer;
+}
+#spacer{
+    padding-right: 15px;
+}
+nav{
+     padding-bottom: 15px;
+    text-align:center;
+    height:10%;
+    width: 100%; 
+    position: relative;
+}
+tr{
+    display: inline;
+    margin: 30px;
+}
+th{
+    margin: 10px;
+}
+#ABCD{
+    word-spacing: 10px;
+    background-color: green;
+    color:white;
+    font-size: 15px;
+    border-radius: 30px; 
+    padding: 20px;
+}
+#inline{
+   
+    /* display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+	 padding: 20px 30px;
+	margin: 20px 5%; 
+	box-sizing: border-box;
+	border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+}
+#aaa{
+    height:140px;
+    width: 30%;   
+    background-color: rgb(74, 179, 74);
+    text-align: left;
+    font-size: 30px;
+    color:white;
+    border-radius: 10px; 
+}
+#seprateTr{
+    position: absolute;
+    bottom: 0;
+    left: 0; 
+}
+#sec{
+    height: 700px;
+    width: 100%;
+    background-image: url("./logo3.PNG");
+    position: relative;
+    min-height:50%;
+    background-color: #110c0c;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-size: 100% 80%;
+}
+#hey{
+    padding-bottom: 100px;
+    padding-left: 200px;
+    word-spacing: 100px;
+}
+#its{
+    height:50%;
+    width: 100%;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+}
+#hoverStyle{
+    text-decoration: none;color: grey;
+}
+#heys{
+    padding-left: 80px;
+    margin: 10px;
+}
+li{
+    margin: 20px;
+    padding-left: 100px;
+}
+#xyz{
+  height:50%;
+  width: 50%;
+}
+#snip{
+    border-style: double;
+    border-radius: 30px; 
+    padding: 20px;
+    border-spacing: 20px;
+    text-align: center;
+}
